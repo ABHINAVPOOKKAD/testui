@@ -1,0 +1,72 @@
+.profile{
+    background-color:black;
+    width: 200px;
+    height: 600px;
+    
+}
+
+.profile ul li{
+    text-align: center;
+}
+.sub{
+    background-color:rgb(82, 80, 80);
+    width: 600px;
+    height: 600px;
+    margin-top: -600px;
+    margin-left: 200px;
+}
+.sub h1{
+    text-align: center;
+}
+.sub #profile-pic{
+    margin-left: 234px;
+    margin-top: 167px;
+    position: absolute;
+}
+
+.sub button{
+    text-align: center;
+    margin-top: 308px;
+    margin-left: 135px;
+    width: 300px;
+}
+.sub .box{
+    width:400px;
+    height: 55px;
+    background-color: darkred;
+    border-radius: 5px;
+    margin-top: 61px;
+    margin-left: 86px;
+}
+.sub .box h5{
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+}
+.info{
+    margin-top: -600px;
+    margin-left: 802px;
+    width: 700px;
+}
+.info .para-1{
+    text-align: left;
+    width: 300px;
+}
+.info .para-2{
+    width:300px ;
+    text-align: end;
+    margin-top: -139px;
+    margin-left: 308px;
+}
+
+hr{
+   color: white; 
+}
+/*@media(max-width:824px){
+    .profile{
+        display: inline;
+    }
+    .sub{
+        display:inline;
+    }
+}*/
